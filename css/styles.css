@@ -1,14 +1,18 @@
 html {
-  background: #00d9df;
-  background: linear-gradient(270deg,#00d9df 0%, #004249 80%);
-  background: -webkit-linear-gradient(270deg,#00d9df 0%, #004249 80%);
-  background: -moz-linear-gradient(270deg,#00d9df 0%, #004249 80%);
+  background-image: url(nubes2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
   
 }
 
 .contenedor{
   margin-top: 125px;
+}
+
+h1 {
+  color: rgb(215, 114, 20) 
+  ;
 }
 
 .sk-fading-circle {
